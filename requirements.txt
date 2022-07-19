@@ -1,0 +1,6 @@
+Flask
+werkzeug
+flask_cors
+flask_session
+pytz
+requests
